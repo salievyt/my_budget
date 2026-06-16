@@ -1,5 +1,5 @@
-name: my_budget
-description: "A new Flutter project."
+name: my_badge
+description: "A Flutter app for collecting digital badges from events."
 publish_to: 'none'
 version: 0.1.0+1
 

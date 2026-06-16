@@ -1,4 +1,4 @@
-package com.example.my_budget
+package com.example.my_badge
 
 import io.flutter.embedding.android.FlutterActivity
 
